@@ -16,7 +16,7 @@ For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-A blog post and video tutorial of the application can be found [here](Placeholder for MVoovies mobile blog post and video)
+For help getting started with Flutter for **Android and Windows**, view the [Windows and Android integration with Flutter](https://mstapleton22.github.io/Windows-and-Android-integration-with-Flutter/) documentation.
 
 ### Dependencies
 * Flutter SDK - This app depends on the Flutter SDK. The Flutter team has developed amazing online documentation. In order to get the MVoovies mobile app up and running, please follow the Flutter installion guide. Complete up to step 3, and then comeback to this wiki continue wth MVoovies specific steps.[Click Here - Flutter Install Guide](https://flutter.dev/docs/get-started/install)
